@@ -1,12 +1,11 @@
-
-    {
-        "id": "light-novel-reader",
-        "name": "Light Novel Reader",
-        "version": "1.0.0",
-        "description": "Reads light novel text aloud via button",
-        "main": "index.js",
-        "author": "AbyssalField",
-        "language": "javascript",
-        "type": "plugin",
-        "isDevelopment": true
-    }
+{
+    "id": "light-novel-reader",
+    "name": "Light Novel Reader",
+    "version": "1.0.0",
+    "description": "Reads light novel text aloud via button",
+    "main": "index.js",
+    "author": "AbyssalField",
+    "language": "javascript",
+    "type": "plugin",
+    "isDevelopment": true
+}
