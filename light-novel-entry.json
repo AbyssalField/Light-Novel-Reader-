@@ -1,9 +1,9 @@
 {
-  "id": "light-novel-reader",
-  "name": "Light Novel Reader",
-  "version": "1.0.0",
-  "language": "javascript",
-  "type": "plugin",
-  "author": "AbyssalField",
-  "payloadUri": "https://github.com/AbyssalField/Light-Novel-Reader-/archive/refs/heads/main.zip"
+    "id": "light-novel-reader",
+    "name": "Light Novel Reader",
+    "version": "1.0.0",
+    "language": "javascript",
+    "type": "plugin",
+    "author": "AbyssalField",
+    "payloadUri": "https://github.com/AbyssalField/Light-Novel-Reader-/archive/refs/heads/main.zip"
 }
